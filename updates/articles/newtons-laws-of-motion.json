@@ -1,0 +1,118 @@
+{
+  "id": "newtons-laws-of-motion",
+  "title": "নিউটনের গতিসূত্র",
+  "slug": "নিউটনের-গতিসূত্র",
+  "summary": "১৬৮৭ সালে স্যার আইজ্যাক নিউটন তাঁর বিখ্যাত গ্রন্থ Philosophiae Naturalis Principia Mathematica-তে বস্তুর গতির তিনটি মৌলিক সূত্র প্রকাশ করেন, যা চিরায়ত বলবিদ্যার ভিত্তি স্থাপন করে।",
+  "content": "# নিউটনের গতিসূত্র\n\n## সংক্ষিপ্ত পরিচিতি\n১৬৮৭ সালে স্যার আইজ্যাক নিউটন তাঁর বিখ্যাত গ্রন্থ *Philosophiae Naturalis Principia Mathematica*-তে বস্তুর গতির তিনটি মৌলিক সূত্র প্রকাশ করেন, যা চিরায়ত বলবিদ্যার ভিত্তি স্থাপন করে।\n\n## সূচিপত্র\n1. প্রথম গতিসূত্র (জড়তার সূত্র)\n2. দ্বিতীয় গতিসূত্র (বলের সূত্র)\n3. তৃতীয় গতিসূত্র (ক্রিয়া ও প্রতিক্রিয়া)\n4. আধুনিক বিজ্ঞানে গুরুত্ব\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র\n\n## প্রথম গতিসূত্র (জড়তার সূত্র)\n**সূত্র:** বাহ্যিক কোনো বল প্রয়োগ না করলে স্থির বস্তু চিরকাল স্থির থাকবে এবং গতিশীল বস্তু সুষম দ্রুতিতে সরলরেখায় চলতে থাকবে।\nএই সূত্র থেকে বস্তুর 'জড়তা' (Inertia) এবং বলের গুণগত সংজ্ঞা পাওয়া যায়।\n\n## দ্বিতীয় গতিসূত্র (বলের সূত্র)\n**সূত্র:** কোনো বস্তুর ভরবেগের পরিবর্তনের হার তার ওপর প্রযুক্ত বলের সমানুপাতিক এবং বল যেদিকে ক্রিয়া করে ভরবেগের পরিবর্তনও সেদিকে ঘটে।\nগানিতিক রূপ: \n$$F = ma$$\n(যেখানে $F$ হলো প্রযুক্ত বল, $m$ হলো বস্তুর ভর, এবং $a$ হলো ত্বরণ)।\n\n## তৃতীয় গতিসূত্র (ক্রিয়া ও প্রতিক্রিয়া)\n**সূত্র:** প্রত্যেক ক্রিয়ারই একটি সমান ও বিপরীত প্রতিক্রিয়া আছে।\n**উদাহরণ:** বন্দুক থেকে গুলি ছুড়লে বন্দুকের পেছনের দিকে ধাক্কা খাওয়া, রকেটের মহাকাশে যাত্রা এবং হাঁটার সময় মাটিতে পেছনের দিকে বল প্রয়োগ।\n\n## সম্পর্কিত বিষয়\n- [গতি ও বেগ](article:motion)\n- [মহাকর্ষ](article:gravity)\n- [আইজ্যাক নিউটন](article:isaac-newton)\n\n## উপসংহার\nরকেট উড্ডয়ন থেকে শুরু করে মোটরগাড়ি ও মহাকাশযানের গতি বিশ্লেষণে নিউটনের গতিসূত্রসমূহ আজও অপরিহার্য।\n\n## তথ্যসূত্র\n1. Halliday, Resnick & Walker, Fundamentals of Physics\n2. পদার্থবিজ্ঞান প্রথম পত্র, একাদশ-দ্বাদশ শ্রেণি (NCTB)",
+  "categoryId": "science-physics",
+  "createdAt": 1788093813614,
+  "updatedAt": 1788093813614,
+  "contentHash": "c95f2c657831c042582c25865f2be98db9b2addfeebe57c554b254c6bfbd9309",
+  "sha256": "2d81979326165dafe9fbdedf083a8ffc8e2767d8261148baeac2e4533982c65d",
+  "category": {
+    "id": "science-physics",
+    "name": "Physics",
+    "parentId": "science",
+    "path": "Science → Physics",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "newtons-laws-of-motion_sec_1",
+      "articleId": "newtons-laws-of-motion",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "১৬৮৭ সালে স্যার আইজ্যাক নিউটন তাঁর বিখ্যাত গ্রন্থ *Philosophiae Naturalis Principia Mathematica*-তে বস্তুর গতির তিনটি মৌলিক সূত্র প্রকাশ করেন, যা চিরায়ত বলবিদ্যার ভিত্তি স্থাপন করে।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_2",
+      "articleId": "newtons-laws-of-motion",
+      "title": "সূচিপত্র",
+      "content": "1. প্রথম গতিসূত্র (জড়তার সূত্র)\n2. দ্বিতীয় গতিসূত্র (বলের সূত্র)\n3. তৃতীয় গতিসূত্র (ক্রিয়া ও প্রতিক্রিয়া)\n4. আধুনিক বিজ্ঞানে গুরুত্ব\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_3",
+      "articleId": "newtons-laws-of-motion",
+      "title": "প্রথম গতিসূত্র (জড়তার সূত্র)",
+      "content": "**সূত্র:** বাহ্যিক কোনো বল প্রয়োগ না করলে স্থির বস্তু চিরকাল স্থির থাকবে এবং গতিশীল বস্তু সুষম দ্রুতিতে সরলরেখায় চলতে থাকবে।\nএই সূত্র থেকে বস্তুর 'জড়তা' (Inertia) এবং বলের গুণগত সংজ্ঞা পাওয়া যায়।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_4",
+      "articleId": "newtons-laws-of-motion",
+      "title": "দ্বিতীয় গতিসূত্র (বলের সূত্র)",
+      "content": "**সূত্র:** কোনো বস্তুর ভরবেগের পরিবর্তনের হার তার ওপর প্রযুক্ত বলের সমানুপাতিক এবং বল যেদিকে ক্রিয়া করে ভরবেগের পরিবর্তনও সেদিকে ঘটে।\nগানিতিক রূপ: \n$$F = ma$$\n(যেখানে $F$ হলো প্রযুক্ত বল, $m$ হলো বস্তুর ভর, এবং $a$ হলো ত্বরণ)।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_5",
+      "articleId": "newtons-laws-of-motion",
+      "title": "তৃতীয় গতিসূত্র (ক্রিয়া ও প্রতিক্রিয়া)",
+      "content": "**সূত্র:** প্রত্যেক ক্রিয়ারই একটি সমান ও বিপরীত প্রতিক্রিয়া আছে।\n**উদাহরণ:** বন্দুক থেকে গুলি ছুড়লে বন্দুকের পেছনের দিকে ধাক্কা খাওয়া, রকেটের মহাকাশে যাত্রা এবং হাঁটার সময় মাটিতে পেছনের দিকে বল প্রয়োগ।",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_6",
+      "articleId": "newtons-laws-of-motion",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [গতি ও বেগ](article:motion)\n- [মহাকর্ষ](article:gravity)\n- [আইজ্যাক নিউটন](article:isaac-newton)",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_7",
+      "articleId": "newtons-laws-of-motion",
+      "title": "উপসংহার",
+      "content": "রকেট উড্ডয়ন থেকে শুরু করে মোটরগাড়ি ও মহাকাশযানের গতি বিশ্লেষণে নিউটনের গতিসূত্রসমূহ আজও অপরিহার্য।",
+      "position": 7,
+      "level": 2
+    },
+    {
+      "id": "newtons-laws-of-motion_sec_8",
+      "articleId": "newtons-laws-of-motion",
+      "title": "তথ্যসূত্র",
+      "content": "1. Halliday, Resnick & Walker, Fundamentals of Physics\n2. পদার্থবিজ্ঞান প্রথম পত্র, একাদশ-দ্বাদশ শ্রেণি (NCTB)",
+      "position": 8,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "বিজ্ঞান",
+    "পদার্থবিদ্যা",
+    "নিউটন",
+    "বল ও গতি"
+  ],
+  "relations": [
+    {
+      "id": "newtons-laws-of-motion_motion",
+      "articleId": "newtons-laws-of-motion",
+      "relatedArticleId": "motion",
+      "relationType": "see_also"
+    },
+    {
+      "id": "newtons-laws-of-motion_gravity",
+      "articleId": "newtons-laws-of-motion",
+      "relatedArticleId": "gravity",
+      "relationType": "see_also"
+    },
+    {
+      "id": "newtons-laws-of-motion_energy",
+      "articleId": "newtons-laws-of-motion",
+      "relatedArticleId": "energy",
+      "relationType": "see_also"
+    },
+    {
+      "id": "newtons-laws-of-motion_isaac-newton",
+      "articleId": "newtons-laws-of-motion",
+      "relatedArticleId": "isaac-newton",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

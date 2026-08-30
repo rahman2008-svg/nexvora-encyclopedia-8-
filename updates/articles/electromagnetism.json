@@ -1,0 +1,106 @@
+{
+  "id": "electromagnetism",
+  "title": "তড়িৎচুম্বকত্ব",
+  "slug": "তড়িৎচুম্বকত্ব",
+  "summary": "তড়িৎচুম্বকত্ব হলো পদার্থবিজ্ঞানের অন্যতম মৌলিক বল যা তড়িৎ আধানযুক্ত কণাগুলোর মধ্যকার আকর্ষণ ও বিকর্ষণ এবং চৌম্বক ক্ষেত্রের মিথস্ক্রিয়া ব্যাখ্যা করে।",
+  "content": "# তড়িৎচুম্বকত্ব\n\n## সংক্ষিপ্ত পরিচিতি\nতড়িৎচুম্বকত্ব হলো পদার্থবিজ্ঞানের অন্যতম মৌলিক বল যা তড়িৎ আধানযুক্ত কণাগুলোর মধ্যকার আকর্ষণ ও বিকর্ষণ এবং চৌম্বক ক্ষেত্রের মিথস্ক্রিয়া ব্যাখ্যা করে।\n\n## সূচিপত্র\n1. পরিচিতি ও ম্যাক্সওয়েলের সমীকরণ\n2. কুলম্বের সূত্র ও চৌম্বক ক্ষেত্র\n3. তড়িৎচুম্বকীয় আবেশ\n4. বাস্তব জীবনের প্রয়োগ\n5. উপসংহার\n6. তথ্যসূত্র\n\n## পরিচিতি ও ম্যাক্সওয়েলের সমীকরণ\n১৮৬৫ সালে জেমস ক্লার্ক ম্যাক্সওয়েল চারটি গাণিতিক সমীকরণের মাধ্যমে বিদ্যুৎ ও চুম্বকত্বকে একত্রিত করেন। তিনি প্রমাণ করেন আলো আসলে একটি তড়িৎচুম্বকীয় তরঙ্গ।\n\n## তড়িৎচুম্বকীয় আবেশ\nমাইকেল ফ্যারাডে আবিষ্কার করেন যে গতিশীল চৌম্বক ক্ষেত্র দ্বারা কোনো পরিবাহীতে বিদ্যুৎ প্রবাহ সৃষ্টি করা যায়। এই নীতির ওপর ভিত্তি করেই আজকের বৈদ্যুতিক জেনারেটর ও ট্রান্সফরমার কাজ করে।\n\n## বাস্তব জীবনের প্রয়োগ\n- বৈদ্যুতিক মোটর ও জেনারেটর\n- বেতার ও টেলিভিশন সম্প্রচার\n- ওয়াই-ফাই, মোবাইল ও স্যাটেলাইট যোগাযোগ\n- এমআরআই (MRI) চিকিৎসা প্রযুক্তি\n\n## সম্পর্কিত বিষয়\n- [আলো ও আলোকবিজ্ঞান](article:light-and-optics)\n- [শক্তি ও এর রূপান্তর](article:energy)\n\n## উপসংহার\nআধুনিক সভ্যতার বিদ্যুৎ অবকাঠামো এবং তারহীন যোগাযোগের ভিত্তি হলো তড়িৎচুম্বকত্ব।\n\n## তথ্যসূত্র\n1. David J. Griffiths, Introduction to Electrodynamics\n2. পদার্থবিজ্ঞান দ্বিতীয় পত্র (NCTB)",
+  "categoryId": "science-physics",
+  "createdAt": 1788093813613,
+  "updatedAt": 1788093813613,
+  "contentHash": "87dc0cf56defd94996c6812ff7177f09b343654f0b0c3b5174fc463748d0bb6c",
+  "sha256": "d6ffeefd1399704331f7a6f993921e6211df43de496448de7000245632044784",
+  "category": {
+    "id": "science-physics",
+    "name": "Physics",
+    "parentId": "science",
+    "path": "Science → Physics",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "electromagnetism_sec_1",
+      "articleId": "electromagnetism",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "তড়িৎচুম্বকত্ব হলো পদার্থবিজ্ঞানের অন্যতম মৌলিক বল যা তড়িৎ আধানযুক্ত কণাগুলোর মধ্যকার আকর্ষণ ও বিকর্ষণ এবং চৌম্বক ক্ষেত্রের মিথস্ক্রিয়া ব্যাখ্যা করে।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_2",
+      "articleId": "electromagnetism",
+      "title": "সূচিপত্র",
+      "content": "1. পরিচিতি ও ম্যাক্সওয়েলের সমীকরণ\n2. কুলম্বের সূত্র ও চৌম্বক ক্ষেত্র\n3. তড়িৎচুম্বকীয় আবেশ\n4. বাস্তব জীবনের প্রয়োগ\n5. উপসংহার\n6. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_3",
+      "articleId": "electromagnetism",
+      "title": "পরিচিতি ও ম্যাক্সওয়েলের সমীকরণ",
+      "content": "১৮৬৫ সালে জেমস ক্লার্ক ম্যাক্সওয়েল চারটি গাণিতিক সমীকরণের মাধ্যমে বিদ্যুৎ ও চুম্বকত্বকে একত্রিত করেন। তিনি প্রমাণ করেন আলো আসলে একটি তড়িৎচুম্বকীয় তরঙ্গ।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_4",
+      "articleId": "electromagnetism",
+      "title": "তড়িৎচুম্বকীয় আবেশ",
+      "content": "মাইকেল ফ্যারাডে আবিষ্কার করেন যে গতিশীল চৌম্বক ক্ষেত্র দ্বারা কোনো পরিবাহীতে বিদ্যুৎ প্রবাহ সৃষ্টি করা যায়। এই নীতির ওপর ভিত্তি করেই আজকের বৈদ্যুতিক জেনারেটর ও ট্রান্সফরমার কাজ করে।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_5",
+      "articleId": "electromagnetism",
+      "title": "বাস্তব জীবনের প্রয়োগ",
+      "content": "- বৈদ্যুতিক মোটর ও জেনারেটর\n- বেতার ও টেলিভিশন সম্প্রচার\n- ওয়াই-ফাই, মোবাইল ও স্যাটেলাইট যোগাযোগ\n- এমআরআই (MRI) চিকিৎসা প্রযুক্তি",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_6",
+      "articleId": "electromagnetism",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [আলো ও আলোকবিজ্ঞান](article:light-and-optics)\n- [শক্তি ও এর রূপান্তর](article:energy)",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_7",
+      "articleId": "electromagnetism",
+      "title": "উপসংহার",
+      "content": "আধুনিক সভ্যতার বিদ্যুৎ অবকাঠামো এবং তারহীন যোগাযোগের ভিত্তি হলো তড়িৎচুম্বকত্ব।",
+      "position": 7,
+      "level": 2
+    },
+    {
+      "id": "electromagnetism_sec_8",
+      "articleId": "electromagnetism",
+      "title": "তথ্যসূত্র",
+      "content": "1. David J. Griffiths, Introduction to Electrodynamics\n2. পদার্থবিজ্ঞান দ্বিতীয় পত্র (NCTB)",
+      "position": 8,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "বিজ্ঞান",
+    "পদার্থবিদ্যা",
+    "তড়িৎচুম্বকত্ব",
+    "বিদ্যুৎ"
+  ],
+  "relations": [
+    {
+      "id": "electromagnetism_light-and-optics",
+      "articleId": "electromagnetism",
+      "relatedArticleId": "light-and-optics",
+      "relationType": "see_also"
+    },
+    {
+      "id": "electromagnetism_energy",
+      "articleId": "electromagnetism",
+      "relatedArticleId": "energy",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

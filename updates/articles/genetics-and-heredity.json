@@ -1,0 +1,120 @@
+{
+  "id": "genetics-and-heredity",
+  "title": "জিনতত্ত্ব ও বংশগতি",
+  "slug": "জিনতত্ত্ব-ও-বংশগতি",
+  "summary": "জিনতত্ত্ব (Genetics) হলো জীববিজ্ঞানের শাখা যা জীবের বংশগত বৈশিষ্ট্যসমূহ কীভাবে এক প্রজন্ম থেকে অন্য প্রজন্মে স্থানান্তরিত হয় এবং জীনের গঠন ও কার্যক্রম ব্যাখ্যা করে।",
+  "content": "# জিনতত্ত্ব ও বংশগতি\n\n## সংক্ষিপ্ত পরিচিতি\nজিনতত্ত্ব (Genetics) হলো জীববিজ্ঞানের শাখা যা জীবের বংশগত বৈশিষ্ট্যসমূহ কীভাবে এক প্রজন্ম থেকে অন্য প্রজন্মে স্থানান্তরিত হয় এবং জীনের গঠন ও কার্যক্রম ব্যাখ্যা করে।\n\n## সূচিপত্র\n1. বংশগতি ও মেন্ডেলের সূত্রাবলী\n2. জীন ও ক্রোমোজোমের ভূমিকা\n3. প্রকট ও প্রচ্ছন্ন বৈশিষ্ট্য\n4. মিউটেশন ও জেনেটিক রোগ\n5. জেনেটিক ইঞ্জিনিয়ারিং ও বায়োটেকনোলজি\n6. সম্পর্কিত বিষয়\n7. উপসংহার\n8. তথ্যসূত্র\n\n## বংশগতি ও মেন্ডেলের সূত্রাবলী\nগ্রেগর জোহান মেন্ডেলকে জিনতত্ত্বের জনক বলা হয়। ১৮৬৫ সালে তিনি মটরশুঁটি গাছের ওপর গবেষণা করে পৃথকীকরণ সূত্র (Law of Segregation) এবং স্বাধীন সঞ্চারণ সূত্র (Law of Independent Assortment) প্রদান করেন।\n\n## জীন ও ক্রোমোজোমের ভূমিকা\nক্রোমোজোমে অবস্থিত ডিএনএ-এর নির্দিষ্ট কার্যকরী অংশ যা নির্দিষ্ট প্রোটিন তৈরির নির্দেশ বহন করে তাকে জীন বলে। মানুষের প্রতিটি কোষে ২৩ জোড়া (৪৬টি) ক্রোমোজোম থাকে।\n\n## মিউটেশন ও জেনেটিক রোগ\nডিএনএ বা ক্রোমোজোমের বিন্যাসে আকস্মিক পরিবর্তনকে মিউটেশন বলে। থ্যালাসেমিয়া, ডাউন সিন্ড্রোম ইত্যাদি জিনগত রোগ বংশানুক্রমে বা মিউটেশনের মাধ্যমে সংক্রমিত হয়।\n\n## জেনেটিক ইঞ্জিনিয়ারিং ও বায়োটেকনোলজি\nআধুনিক জিনপ্রকৌশলের মাধ্যমে ফসলের রোগপ্রতিরোধ ক্ষমতা বৃদ্ধি, উন্নত জাতের ধান ও ডায়াবেটিসের জীবনরক্ষাকারী ইনসুলিন তৈরি সম্ভব হয়েছে।\n\n## সম্পর্কিত বিষয়\n- [ডিএনএ](article:dna)\n- [কোষ](article:cell)\n- [বিবর্তন ও প্রাকৃতিক নির্বাচন](article:evolution)\n\n## উপসংহার\nজিনতত্ত্বের অগ্রগতি মানব স্বাস্থ্য, কৃষি ও জীববিজ্ঞানের ভবিষ্যৎকে পুনর্নির্মাণ করছে।\n\n## তথ্যসূত্র\n1. D. Peter Snustad & Michael J. Simmons, Principles of Genetics\n2. উচ্চ মাধ্যমিক জীববিজ্ঞান, এনসিটিবি",
+  "categoryId": "science-biology",
+  "createdAt": 1788093813621,
+  "updatedAt": 1788093813621,
+  "contentHash": "105368af299ab4abfcfc8a925b4d92a5aa89166d00354f99f494ac792e3e002b",
+  "sha256": "08937de9166728e4b778ca04b6307c2f10ed5f6cbb5eedb47d51ed43106c695b",
+  "category": {
+    "id": "science-biology",
+    "name": "Biology",
+    "parentId": "science",
+    "path": "Science → Biology",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "genetics-and-heredity_sec_1",
+      "articleId": "genetics-and-heredity",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "জিনতত্ত্ব (Genetics) হলো জীববিজ্ঞানের শাখা যা জীবের বংশগত বৈশিষ্ট্যসমূহ কীভাবে এক প্রজন্ম থেকে অন্য প্রজন্মে স্থানান্তরিত হয় এবং জীনের গঠন ও কার্যক্রম ব্যাখ্যা করে।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_2",
+      "articleId": "genetics-and-heredity",
+      "title": "সূচিপত্র",
+      "content": "1. বংশগতি ও মেন্ডেলের সূত্রাবলী\n2. জীন ও ক্রোমোজোমের ভূমিকা\n3. প্রকট ও প্রচ্ছন্ন বৈশিষ্ট্য\n4. মিউটেশন ও জেনেটিক রোগ\n5. জেনেটিক ইঞ্জিনিয়ারিং ও বায়োটেকনোলজি\n6. সম্পর্কিত বিষয়\n7. উপসংহার\n8. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_3",
+      "articleId": "genetics-and-heredity",
+      "title": "বংশগতি ও মেন্ডেলের সূত্রাবলী",
+      "content": "গ্রেগর জোহান মেন্ডেলকে জিনতত্ত্বের জনক বলা হয়। ১৮৬৫ সালে তিনি মটরশুঁটি গাছের ওপর গবেষণা করে পৃথকীকরণ সূত্র (Law of Segregation) এবং স্বাধীন সঞ্চারণ সূত্র (Law of Independent Assortment) প্রদান করেন।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_4",
+      "articleId": "genetics-and-heredity",
+      "title": "জীন ও ক্রোমোজোমের ভূমিকা",
+      "content": "ক্রোমোজোমে অবস্থিত ডিএনএ-এর নির্দিষ্ট কার্যকরী অংশ যা নির্দিষ্ট প্রোটিন তৈরির নির্দেশ বহন করে তাকে জীন বলে। মানুষের প্রতিটি কোষে ২৩ জোড়া (৪৬টি) ক্রোমোজোম থাকে।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_5",
+      "articleId": "genetics-and-heredity",
+      "title": "মিউটেশন ও জেনেটিক রোগ",
+      "content": "ডিএনএ বা ক্রোমোজোমের বিন্যাসে আকস্মিক পরিবর্তনকে মিউটেশন বলে। থ্যালাসেমিয়া, ডাউন সিন্ড্রোম ইত্যাদি জিনগত রোগ বংশানুক্রমে বা মিউটেশনের মাধ্যমে সংক্রমিত হয়।",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_6",
+      "articleId": "genetics-and-heredity",
+      "title": "জেনেটিক ইঞ্জিনিয়ারিং ও বায়োটেকনোলজি",
+      "content": "আধুনিক জিনপ্রকৌশলের মাধ্যমে ফসলের রোগপ্রতিরোধ ক্ষমতা বৃদ্ধি, উন্নত জাতের ধান ও ডায়াবেটিসের জীবনরক্ষাকারী ইনসুলিন তৈরি সম্ভব হয়েছে।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_7",
+      "articleId": "genetics-and-heredity",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [ডিএনএ](article:dna)\n- [কোষ](article:cell)\n- [বিবর্তন ও প্রাকৃতিক নির্বাচন](article:evolution)",
+      "position": 7,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_8",
+      "articleId": "genetics-and-heredity",
+      "title": "উপসংহার",
+      "content": "জিনতত্ত্বের অগ্রগতি মানব স্বাস্থ্য, কৃষি ও জীববিজ্ঞানের ভবিষ্যৎকে পুনর্নির্মাণ করছে।",
+      "position": 8,
+      "level": 2
+    },
+    {
+      "id": "genetics-and-heredity_sec_9",
+      "articleId": "genetics-and-heredity",
+      "title": "তথ্যসূত্র",
+      "content": "1. D. Peter Snustad & Michael J. Simmons, Principles of Genetics\n2. উচ্চ মাধ্যমিক জীববিজ্ঞান, এনসিটিবি",
+      "position": 9,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "জীববিজ্ঞান",
+    "জিনতত্ত্ব",
+    "বংশগতি",
+    "ডিএনএ"
+  ],
+  "relations": [
+    {
+      "id": "genetics-and-heredity_dna",
+      "articleId": "genetics-and-heredity",
+      "relatedArticleId": "dna",
+      "relationType": "see_also"
+    },
+    {
+      "id": "genetics-and-heredity_cell",
+      "articleId": "genetics-and-heredity",
+      "relatedArticleId": "cell",
+      "relationType": "see_also"
+    },
+    {
+      "id": "genetics-and-heredity_evolution",
+      "articleId": "genetics-and-heredity",
+      "relatedArticleId": "evolution",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

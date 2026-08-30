@@ -1,0 +1,98 @@
+{
+  "id": "karnafuli-river",
+  "title": "কর্ণফুলী নদী",
+  "slug": "কর্ণফুলী-নদী",
+  "summary": "কর্ণফুলী নদী বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের প্রধান এবং অত্যন্ত খরস্রোতা নদী। এই নদীর তীরেই দেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম বন্দর অবস্থিত।",
+  "content": "# কর্ণফুলী নদী\n\n## সংক্ষিপ্ত পরিচিতি\nকর্ণফুলী নদী বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের প্রধান এবং অত্যন্ত খরস্রোতা নদী। এই নদীর তীরেই দেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম বন্দর অবস্থিত।\n\n## সূচিপত্র\n1. উৎপত্তি ও গতিপথ\n2. কাপ্তাই জলবিদ্যুৎ কেন্দ্র\n3. কর্ণফুলী টানেল\n4. অর্থনীতিতে গুরুত্ব\n5. উপসংহার\n6. তথ্যসূত্র\n\n## উৎপত্তি ও গতিপথ\nভারতের মিজোরাম রাজ্যের লুসাই পাহাড় থেকে কর্ণফুলী নদীর উৎপত্তি। রাঙামাটি ও চট্টগ্রাম হয়ে প্রায় ৩২০ কিলোমিটার পথ অতিক্রম করে এটি পতেঙ্গার কাছে বঙ্গোপসাগরে পতিত হয়েছে।\n\n## কাপ্তাই জলবিদ্যুৎ কেন্দ্র ও কর্ণফুলী টানেল\n১৯৬২ সালে কর্ণফুলী নদীতে বাঁধ দিয়ে দেশের একমাত্র জলবিদ্যুৎ কেন্দ্র কাপ্তাই বাঁধ নির্মিত হয়। এছাড়া নদীর তলদেশে নির্মিত 'বঙ্গবন্ধু শেখ মুজিবুর রহমান টানেল' দক্ষিণ এশিয়ার প্রথম নদীগর্ভস্থ যোগাযোগ টানেল।\n\n## সম্পর্কিত বিষয়\n- [চট্টগ্রাম জেলা](article:chittagong-district)\n- [বঙ্গোপসাগর](article:bay-of-bengal)\n\n## উপসংহার\nবন্দর পরিচালনা ও জাতীয় অর্থনীতিতে কর্ণফুলী নদী বাংলাদেশের প্রাণপ্রবাহ।\n\n## তথ্যসূত্র\n1. বাংলাদেশ পানি উন্নয়ন বোর্ড (BWDB)\n2. চট্টগ্রাম বন্দর কর্তৃপক্ষ",
+  "categoryId": "geography-rivers-and-oceans",
+  "createdAt": 1788093813626,
+  "updatedAt": 1788093813626,
+  "contentHash": "80c294eb4986f6bad07cd9acb46f9698c1fa7bc82a09c9a42cb0948e6a6e1fc2",
+  "sha256": "898ca6c73eec4948ebabe648c8968392e8d7e938ebda8c7b0e66d9ce6d80ed7e",
+  "category": {
+    "id": "geography-rivers-and-oceans",
+    "name": "Rivers and Oceans",
+    "parentId": "geography",
+    "path": "Geography → Rivers-and-Oceans",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "karnafuli-river_sec_1",
+      "articleId": "karnafuli-river",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "কর্ণফুলী নদী বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের প্রধান এবং অত্যন্ত খরস্রোতা নদী। এই নদীর তীরেই দেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম বন্দর অবস্থিত।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_2",
+      "articleId": "karnafuli-river",
+      "title": "সূচিপত্র",
+      "content": "1. উৎপত্তি ও গতিপথ\n2. কাপ্তাই জলবিদ্যুৎ কেন্দ্র\n3. কর্ণফুলী টানেল\n4. অর্থনীতিতে গুরুত্ব\n5. উপসংহার\n6. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_3",
+      "articleId": "karnafuli-river",
+      "title": "উৎপত্তি ও গতিপথ",
+      "content": "ভারতের মিজোরাম রাজ্যের লুসাই পাহাড় থেকে কর্ণফুলী নদীর উৎপত্তি। রাঙামাটি ও চট্টগ্রাম হয়ে প্রায় ৩২০ কিলোমিটার পথ অতিক্রম করে এটি পতেঙ্গার কাছে বঙ্গোপসাগরে পতিত হয়েছে।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_4",
+      "articleId": "karnafuli-river",
+      "title": "কাপ্তাই জলবিদ্যুৎ কেন্দ্র ও কর্ণফুলী টানেল",
+      "content": "১৯৬২ সালে কর্ণফুলী নদীতে বাঁধ দিয়ে দেশের একমাত্র জলবিদ্যুৎ কেন্দ্র কাপ্তাই বাঁধ নির্মিত হয়। এছাড়া নদীর তলদেশে নির্মিত 'বঙ্গবন্ধু শেখ মুজিবুর রহমান টানেল' দক্ষিণ এশিয়ার প্রথম নদীগর্ভস্থ যোগাযোগ টানেল।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_5",
+      "articleId": "karnafuli-river",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [চট্টগ্রাম জেলা](article:chittagong-district)\n- [বঙ্গোপসাগর](article:bay-of-bengal)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_6",
+      "articleId": "karnafuli-river",
+      "title": "উপসংহার",
+      "content": "বন্দর পরিচালনা ও জাতীয় অর্থনীতিতে কর্ণফুলী নদী বাংলাদেশের প্রাণপ্রবাহ।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "karnafuli-river_sec_7",
+      "articleId": "karnafuli-river",
+      "title": "তথ্যসূত্র",
+      "content": "1. বাংলাদেশ পানি উন্নয়ন বোর্ড (BWDB)\n2. চট্টগ্রাম বন্দর কর্তৃপক্ষ",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "ভূগোল",
+    "নদী",
+    "চট্টগ্রাম",
+    "কর্ণফুলী"
+  ],
+  "relations": [
+    {
+      "id": "karnafuli-river_chittagong-district",
+      "articleId": "karnafuli-river",
+      "relatedArticleId": "chittagong-district",
+      "relationType": "see_also"
+    },
+    {
+      "id": "karnafuli-river_bay-of-bengal",
+      "articleId": "karnafuli-river",
+      "relatedArticleId": "bay-of-bengal",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

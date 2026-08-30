@@ -1,0 +1,106 @@
+{
+  "id": "python-programming",
+  "title": "পাইথন প্রোগ্রামিং ভাষা",
+  "slug": "পাইথন-প্রোগ্রামিং-ভাষা",
+  "summary": "পাইথন হলো একটি উচ্চস্তরের, ইন্টারপ্রেটেড এবং অবজেক্ট-ওরিয়েন্টেড বহুমুখী প্রোগ্রামিং ভাষা। সহজ সিনট্যাক্স এবং বিপুল পরিমাণ লাইব্রেরি সুবিধার কারণে এটি বিশ্বজুড়ে প্রোগ্রামার ও বিজ্ঞানীদের প্রথম পছন্দ।",
+  "content": "# পাইথন প্রোগ্রামিং ভাষা\n\n## সংক্ষিপ্ত পরিচিতি\nপাইথন হলো একটি উচ্চস্তরের, ইন্টারপ্রেটেড এবং অবজেক্ট-ওরিয়েন্টেড বহুমুখী প্রোগ্রামিং ভাষা। সহজ সিনট্যাক্স এবং বিপুল পরিমাণ লাইব্রেরি সুবিধার কারণে এটি বিশ্বজুড়ে প্রোগ্রামার ও বিজ্ঞানীদের প্রথম পছন্দ।\n\n## সূচিপত্র\n1. ইতিহাস ও গুইডো ভ্যান রসাম\n2. পাইথনের প্রধান বৈশিষ্ট্য\n3. জনপ্রিয় ফ্রেমওয়ার্ক ও লাইব্রেরি\n4. ব্যবহারের ক্ষেত্রসমূহ\n5. উপসংহার\n6. তথ্যসূত্র\n\n## ইতিহাস ও গুইডো ভ্যান রসাম\n১৯৮৯ সালে নেদারল্যান্ডসের সেন্ট্রাম উইসকুন্ডে অ্যান্ড ইনফরমেটিকা (CWI)-তে কর্মরত অবস্থায় গুইডো ভ্যান রসাম পাইথন তৈরি শুরু করেন এবং ১৯৯১ সালে প্রথম উন্মুক্ত করেন। কমেডি শো 'মন্টি পাইথনের ফ্লাইং সার্কাস' থেকে এর নাম রাখা হয়।\n\n## পাইথনের প্রধান বৈশিষ্ট্য\n- **সহজ ও পরিষ্কার সিনট্যাক্স:** যা কোড পড়া ও লেখা অত্যন্ত সহজ করে।\n- **ডায়নামিক টাইপিং:** ভেরিয়েবলের ডেটা টাইপ আগে থেকে নির্ধারণ করতে হয় না।\n- **বিশাল স্ট্যান্ডার্ড লাইব্রেরি:** \"ব্যাটারিজ ইনক্লুডেড\" দর্শনে সমৃদ্ধ।\n- **ক্রস প্ল্যাটফর্ম:** উইন্ডোজ, লিনাক্স ও ম্যাক সবখানেই চলে।\n\n## ব্যবহারের ক্ষেত্রসমূহ\n- ওয়েব ডেভেলপমেন্ট (Django, Flask)\n- ডেটা সায়েন্স ও এনালাইসিস (Pandas, NumPy)\n- কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং (TensorFlow, PyTorch)\n- অটোমেশন ও স্ক্রিপ্টিং\n\n## সম্পর্কিত বিষয়\n- [কম্পিউটার](article:computer)\n- [মেশিন লার্নিং](article:machine-learning)\n\n## উপসংহার\nনতুন শিক্ষার্থী থেকে শুরু করে নাসার গবেষক পর্যন্ত সবার কাছে পাইথন অত্যন্ত বিশ্বস্ত একটি ভাষা।\n\n## তথ্যসূত্র\n1. Python Software Foundation (python.org)\n2. Mark Lutz, Learning Python",
+  "categoryId": "technology-programming",
+  "createdAt": 1788093813600,
+  "updatedAt": 1788093813600,
+  "contentHash": "12527b11c36a96b4cc23bf281004abd1a55d44a1a0be45218faaa6ef630b029f",
+  "sha256": "8389ae74765887c087113fd8522758c8b96991d17f66c23535ebbc73eba3a667",
+  "category": {
+    "id": "technology-programming",
+    "name": "Programming",
+    "parentId": "technology",
+    "path": "Technology → Programming",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "python-programming_sec_1",
+      "articleId": "python-programming",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "পাইথন হলো একটি উচ্চস্তরের, ইন্টারপ্রেটেড এবং অবজেক্ট-ওরিয়েন্টেড বহুমুখী প্রোগ্রামিং ভাষা। সহজ সিনট্যাক্স এবং বিপুল পরিমাণ লাইব্রেরি সুবিধার কারণে এটি বিশ্বজুড়ে প্রোগ্রামার ও বিজ্ঞানীদের প্রথম পছন্দ।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_2",
+      "articleId": "python-programming",
+      "title": "সূচিপত্র",
+      "content": "1. ইতিহাস ও গুইডো ভ্যান রসাম\n2. পাইথনের প্রধান বৈশিষ্ট্য\n3. জনপ্রিয় ফ্রেমওয়ার্ক ও লাইব্রেরি\n4. ব্যবহারের ক্ষেত্রসমূহ\n5. উপসংহার\n6. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_3",
+      "articleId": "python-programming",
+      "title": "ইতিহাস ও গুইডো ভ্যান রসাম",
+      "content": "১৯৮৯ সালে নেদারল্যান্ডসের সেন্ট্রাম উইসকুন্ডে অ্যান্ড ইনফরমেটিকা (CWI)-তে কর্মরত অবস্থায় গুইডো ভ্যান রসাম পাইথন তৈরি শুরু করেন এবং ১৯৯১ সালে প্রথম উন্মুক্ত করেন। কমেডি শো 'মন্টি পাইথনের ফ্লাইং সার্কাস' থেকে এর নাম রাখা হয়।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_4",
+      "articleId": "python-programming",
+      "title": "পাইথনের প্রধান বৈশিষ্ট্য",
+      "content": "- **সহজ ও পরিষ্কার সিনট্যাক্স:** যা কোড পড়া ও লেখা অত্যন্ত সহজ করে।\n- **ডায়নামিক টাইপিং:** ভেরিয়েবলের ডেটা টাইপ আগে থেকে নির্ধারণ করতে হয় না।\n- **বিশাল স্ট্যান্ডার্ড লাইব্রেরি:** \"ব্যাটারিজ ইনক্লুডেড\" দর্শনে সমৃদ্ধ।\n- **ক্রস প্ল্যাটফর্ম:** উইন্ডোজ, লিনাক্স ও ম্যাক সবখানেই চলে।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_5",
+      "articleId": "python-programming",
+      "title": "ব্যবহারের ক্ষেত্রসমূহ",
+      "content": "- ওয়েব ডেভেলপমেন্ট (Django, Flask)\n- ডেটা সায়েন্স ও এনালাইসিস (Pandas, NumPy)\n- কৃত্রিম বুদ্ধিমত্তা ও মেশিন লার্নিং (TensorFlow, PyTorch)\n- অটোমেশন ও স্ক্রিপ্টিং",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_6",
+      "articleId": "python-programming",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [কম্পিউটার](article:computer)\n- [মেশিন লার্নিং](article:machine-learning)",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_7",
+      "articleId": "python-programming",
+      "title": "উপসংহার",
+      "content": "নতুন শিক্ষার্থী থেকে শুরু করে নাসার গবেষক পর্যন্ত সবার কাছে পাইথন অত্যন্ত বিশ্বস্ত একটি ভাষা।",
+      "position": 7,
+      "level": 2
+    },
+    {
+      "id": "python-programming_sec_8",
+      "articleId": "python-programming",
+      "title": "তথ্যসূত্র",
+      "content": "1. Python Software Foundation (python.org)\n2. Mark Lutz, Learning Python",
+      "position": 8,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "প্রযুক্তি",
+    "প্রোগ্রামিং",
+    "সফটওয়্যার",
+    "পাইথন"
+  ],
+  "relations": [
+    {
+      "id": "python-programming_computer",
+      "articleId": "python-programming",
+      "relatedArticleId": "computer",
+      "relationType": "see_also"
+    },
+    {
+      "id": "python-programming_machine-learning",
+      "articleId": "python-programming",
+      "relatedArticleId": "machine-learning",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

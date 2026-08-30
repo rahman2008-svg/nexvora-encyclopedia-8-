@@ -1,0 +1,98 @@
+{
+  "id": "industrial-revolution",
+  "title": "শিল্প বিপ্লব ও আধুনিক বিশ্ব",
+  "slug": "শিল্প-বিপ্লব-ও-আধুনিক-বিশ্ব",
+  "summary": "শিল্প বিপ্লব হলো আঠারো শতকের মধ্যভাগে গ্রেট ব্রিটেনে শুরু হওয়া মানব ইতিহাসের এক অভূতপূর্ব রূপান্তর, যেখানে হস্তচালিত কুটির শিল্পের পরিবর্তে বাষ্পীয় ইঞ্জিন ও ভারী যন্ত্রপাতির মাধ্যমে গণ-উৎপাদন শুরু হয়।",
+  "content": "# শিল্প বিপ্লব ও আধুনিক বিশ্ব\n\n## সংক্ষিপ্ত পরিচিতি\nশিল্প বিপ্লব হলো আঠারো শতকের মধ্যভাগে গ্রেট ব্রিটেনে শুরু হওয়া মানব ইতিহাসের এক অভূতপূর্ব রূপান্তর, যেখানে হস্তচালিত কুটির শিল্পের পরিবর্তে বাষ্পীয় ইঞ্জিন ও ভারী যন্ত্রপাতির মাধ্যমে গণ-উৎপাদন শুরু হয়।\n\n## সূচিপত্র\n1. পটভূমি ও প্রথম শিল্প বিপ্লব (১৭৬০-১৮৪০)\n2. বাষ্পীয় ইঞ্জিন ও জেমস ওয়াট\n3. দ্বিতীয় শিল্প বিপ্লব (বিদ্যুৎ ও ইস্পাত)\n4. সামাজিক ও অর্থনৈতিক প্রভাব (নগরায়ন)\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র\n\n## বাষ্পীয় ইঞ্জিন ও যন্ত্রচালিত উৎপাদন\nজেমস ওয়াটের উন্নত বাষ্পীয় ইঞ্জিন কয়লা শক্তির সাহায্যে টেক্সটাইল মিল, রেলওয়ে ও স্টিমশিপের মতো যাতায়াত ব্যবস্থায় অভূতপূর্ব বিপ্লব নিয়ে আসে।\n\n## নগরায়ন ও আধুনিক সমাজ গঠন\nগ্রামের মানুষ জীবিকার সন্ধানে কারখানাবহুল শহরগুলোতে পাড়ি জমায়। এর ফলে আধুনিক পুঁজিবাদ, শ্রমিক আন্দোলন ও ট্রেড ইউনিয়নের জন্ম হয়।\n\n## সম্পর্কিত বিষয়\n- [শক্তি ও এর রূপান্তর](article:energy)\n- [কম্পিউটার](article:computer)\n\n## উপসংহার\nশিল্প বিপ্লব আধুনিক বিজ্ঞান, প্রযুক্তি এবং বৈশ্বিক অর্থনীতির কাঠামোকে চিরতরে বদলে দিয়েছে।\n\n## তথ্যসূত্র\n1. Eric Hobsbawm, The Age of Revolution\n2. T.S. Ashton, The Industrial Revolution",
+  "categoryId": "history-world-history",
+  "createdAt": 1788093813635,
+  "updatedAt": 1788093813635,
+  "contentHash": "18da44081301161cec862a6712d2440a5a103ead373d87a33e1ad97facbdef0d",
+  "sha256": "96f06ed1ec4ac2fbad927a0aed09a6cbb3a5816d3a8255e12d2d04ef68d4831c",
+  "category": {
+    "id": "history-world-history",
+    "name": "World History",
+    "parentId": "history",
+    "path": "History → World-History",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "industrial-revolution_sec_1",
+      "articleId": "industrial-revolution",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "শিল্প বিপ্লব হলো আঠারো শতকের মধ্যভাগে গ্রেট ব্রিটেনে শুরু হওয়া মানব ইতিহাসের এক অভূতপূর্ব রূপান্তর, যেখানে হস্তচালিত কুটির শিল্পের পরিবর্তে বাষ্পীয় ইঞ্জিন ও ভারী যন্ত্রপাতির মাধ্যমে গণ-উৎপাদন শুরু হয়।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_2",
+      "articleId": "industrial-revolution",
+      "title": "সূচিপত্র",
+      "content": "1. পটভূমি ও প্রথম শিল্প বিপ্লব (১৭৬০-১৮৪০)\n2. বাষ্পীয় ইঞ্জিন ও জেমস ওয়াট\n3. দ্বিতীয় শিল্প বিপ্লব (বিদ্যুৎ ও ইস্পাত)\n4. সামাজিক ও অর্থনৈতিক প্রভাব (নগরায়ন)\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_3",
+      "articleId": "industrial-revolution",
+      "title": "বাষ্পীয় ইঞ্জিন ও যন্ত্রচালিত উৎপাদন",
+      "content": "জেমস ওয়াটের উন্নত বাষ্পীয় ইঞ্জিন কয়লা শক্তির সাহায্যে টেক্সটাইল মিল, রেলওয়ে ও স্টিমশিপের মতো যাতায়াত ব্যবস্থায় অভূতপূর্ব বিপ্লব নিয়ে আসে।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_4",
+      "articleId": "industrial-revolution",
+      "title": "নগরায়ন ও আধুনিক সমাজ গঠন",
+      "content": "গ্রামের মানুষ জীবিকার সন্ধানে কারখানাবহুল শহরগুলোতে পাড়ি জমায়। এর ফলে আধুনিক পুঁজিবাদ, শ্রমিক আন্দোলন ও ট্রেড ইউনিয়নের জন্ম হয়।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_5",
+      "articleId": "industrial-revolution",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [শক্তি ও এর রূপান্তর](article:energy)\n- [কম্পিউটার](article:computer)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_6",
+      "articleId": "industrial-revolution",
+      "title": "উপসংহার",
+      "content": "শিল্প বিপ্লব আধুনিক বিজ্ঞান, প্রযুক্তি এবং বৈশ্বিক অর্থনীতির কাঠামোকে চিরতরে বদলে দিয়েছে।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "industrial-revolution_sec_7",
+      "articleId": "industrial-revolution",
+      "title": "তথ্যসূত্র",
+      "content": "1. Eric Hobsbawm, The Age of Revolution\n2. T.S. Ashton, The Industrial Revolution",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "ইতিহাস",
+    "শিল্প-বিপ্লব",
+    "অর্থনীতি",
+    "বিশ্ব-ইতিহাস"
+  ],
+  "relations": [
+    {
+      "id": "industrial-revolution_energy",
+      "articleId": "industrial-revolution",
+      "relatedArticleId": "energy",
+      "relationType": "see_also"
+    },
+    {
+      "id": "industrial-revolution_computer",
+      "articleId": "industrial-revolution",
+      "relatedArticleId": "computer",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

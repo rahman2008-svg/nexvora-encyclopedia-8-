@@ -1,0 +1,106 @@
+{
+  "id": "artificial-intelligence",
+  "title": "কৃত্রিম বুদ্ধিমত্তা (AI)",
+  "slug": "কৃত্রিম-বুদ্ধিমত্তা-ai",
+  "summary": "কৃত্রিম বুদ্ধিমত্তা বা Artificial Intelligence (AI) হলো কম্পিউটার বিজ্ঞানের এমন একটি শাখা যা এমন সব বুদ্ধিমান মেশিন তৈরি করে যা মানুষের মতো চিন্তা, শিখন, সমস্যা সমাধান ও সিদ্ধান্ত গ্রহণে সক্ষম।",
+  "content": "# কৃত্রিম বুদ্ধিমত্তা (AI)\n\n## সংক্ষিপ্ত পরিচিতি\nকৃত্রিম বুদ্ধিমত্তা বা Artificial Intelligence (AI) হলো কম্পিউটার বিজ্ঞানের এমন একটি শাখা যা এমন সব বুদ্ধিমান মেশিন তৈরি করে যা মানুষের মতো চিন্তা, শিখন, সমস্যা সমাধান ও সিদ্ধান্ত গ্রহণে সক্ষম।\n\n## সূচিপত্র\n1. কৃত্রিম বুদ্ধিমত্তার ইতিহাস\n2. এআই-এর প্রকারভেদ\n3. মেশিন লার্নিং ও ডিপ লার্নিং\n4. বাস্তব জীবনের প্রয়োগ\n5. নৈতিকতা ও ভবিষ্যতের চ্যালেঞ্জ\n6. উপসংহার\n7. তথ্যসূত্র\n\n## কৃত্রিম বুদ্ধিমত্তার ইতিহাস\n১৯৫০ সালে অ্যালান টুরিং বিখ্যাত 'টুরিং টেস্ট' প্রস্তাব করেন। ১৯৫৬ সালে ডার্টমাউথ সম্মেলনে জন ম্যাকার্থি প্রথম 'Artificial Intelligence' পরিভাষাটি আনুষ্ঠানিকভাবে ব্যবহার করেন।\n\n## এআই-এর প্রকারভেদ\n১. **ন্যারো এআই (Narrow AI):** নির্দিষ্ট কোনো কাজে দক্ষ (যেমন: ভয়েস অ্যাসিস্ট্যান্ট, দাবা খেলা, ইমেজ রিকগনিশন)।\n২. **জেনারেল এআই (General AI):** মানুষের মতোই যেকোনো বুদ্ধিবৃত্তিক কাজ সম্পাদনে সক্ষম তাত্ত্বিক এআই।\n৩. **সুপার এআই (Super AI):** মানব মস্তিষ্ককেও ছাড়িয়ে যাওয়া চরম বুদ্ধিমত্তা।\n\n## বাস্তব জীবনের প্রয়োগ\n- চ্যাটবট ও প্রাকৃতিক ভাষা প্রক্রিয়াকরণ (NLP)\n- স্বয়ংক্রিয় চালকবিহীন গাড়ি (Autonomous Vehicles)\n- স্বাস্থ্যসেবায় রোগ নির্ণয়\n- স্মার্ট সার্চ ইঞ্জিন ও পার্সোনালাইজড রিকমেন্ডেশন\n\n## সম্পর্কিত বিষয়\n- [মেশিন লার্নিং](article:machine-learning)\n- [কম্পিউটার](article:computer)\n\n## উপসংহার\nকৃত্রিম বুদ্ধিমত্তা একবিংশ শতাব্দীর চতুর্থ শিল্প বিপ্লবের মূল চালিকাশক্তি।\n\n## তথ্যসূত্র\n1. Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach\n2. MIT Technology Review",
+  "categoryId": "technology-artificial-intelligence",
+  "createdAt": 1788093813603,
+  "updatedAt": 1788093813603,
+  "contentHash": "5ec0fce226e0871e1e7e914e891d8da5ff1d4c09f333f2ddbbc551c92d4caadc",
+  "sha256": "ef1e1708f7e0497f9b51822e29d4ad151ee0a7644087cd6befd9ba0524ce1032",
+  "category": {
+    "id": "technology-artificial-intelligence",
+    "name": "Artificial Intelligence",
+    "parentId": "technology",
+    "path": "Technology → Artificial-Intelligence",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "artificial-intelligence_sec_1",
+      "articleId": "artificial-intelligence",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "কৃত্রিম বুদ্ধিমত্তা বা Artificial Intelligence (AI) হলো কম্পিউটার বিজ্ঞানের এমন একটি শাখা যা এমন সব বুদ্ধিমান মেশিন তৈরি করে যা মানুষের মতো চিন্তা, শিখন, সমস্যা সমাধান ও সিদ্ধান্ত গ্রহণে সক্ষম।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_2",
+      "articleId": "artificial-intelligence",
+      "title": "সূচিপত্র",
+      "content": "1. কৃত্রিম বুদ্ধিমত্তার ইতিহাস\n2. এআই-এর প্রকারভেদ\n3. মেশিন লার্নিং ও ডিপ লার্নিং\n4. বাস্তব জীবনের প্রয়োগ\n5. নৈতিকতা ও ভবিষ্যতের চ্যালেঞ্জ\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_3",
+      "articleId": "artificial-intelligence",
+      "title": "কৃত্রিম বুদ্ধিমত্তার ইতিহাস",
+      "content": "১৯৫০ সালে অ্যালান টুরিং বিখ্যাত 'টুরিং টেস্ট' প্রস্তাব করেন। ১৯৫৬ সালে ডার্টমাউথ সম্মেলনে জন ম্যাকার্থি প্রথম 'Artificial Intelligence' পরিভাষাটি আনুষ্ঠানিকভাবে ব্যবহার করেন।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_4",
+      "articleId": "artificial-intelligence",
+      "title": "এআই-এর প্রকারভেদ",
+      "content": "১. **ন্যারো এআই (Narrow AI):** নির্দিষ্ট কোনো কাজে দক্ষ (যেমন: ভয়েস অ্যাসিস্ট্যান্ট, দাবা খেলা, ইমেজ রিকগনিশন)।\n২. **জেনারেল এআই (General AI):** মানুষের মতোই যেকোনো বুদ্ধিবৃত্তিক কাজ সম্পাদনে সক্ষম তাত্ত্বিক এআই।\n৩. **সুপার এআই (Super AI):** মানব মস্তিষ্ককেও ছাড়িয়ে যাওয়া চরম বুদ্ধিমত্তা।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_5",
+      "articleId": "artificial-intelligence",
+      "title": "বাস্তব জীবনের প্রয়োগ",
+      "content": "- চ্যাটবট ও প্রাকৃতিক ভাষা প্রক্রিয়াকরণ (NLP)\n- স্বয়ংক্রিয় চালকবিহীন গাড়ি (Autonomous Vehicles)\n- স্বাস্থ্যসেবায় রোগ নির্ণয়\n- স্মার্ট সার্চ ইঞ্জিন ও পার্সোনালাইজড রিকমেন্ডেশন",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_6",
+      "articleId": "artificial-intelligence",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [মেশিন লার্নিং](article:machine-learning)\n- [কম্পিউটার](article:computer)",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_7",
+      "articleId": "artificial-intelligence",
+      "title": "উপসংহার",
+      "content": "কৃত্রিম বুদ্ধিমত্তা একবিংশ শতাব্দীর চতুর্থ শিল্প বিপ্লবের মূল চালিকাশক্তি।",
+      "position": 7,
+      "level": 2
+    },
+    {
+      "id": "artificial-intelligence_sec_8",
+      "articleId": "artificial-intelligence",
+      "title": "তথ্যসূত্র",
+      "content": "1. Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach\n2. MIT Technology Review",
+      "position": 8,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "প্রযুক্তি",
+    "কৃত্রিম বুদ্ধিমত্তা",
+    "কম্পিউটার",
+    "এআই"
+  ],
+  "relations": [
+    {
+      "id": "artificial-intelligence_machine-learning",
+      "articleId": "artificial-intelligence",
+      "relatedArticleId": "machine-learning",
+      "relationType": "see_also"
+    },
+    {
+      "id": "artificial-intelligence_computer",
+      "articleId": "artificial-intelligence",
+      "relatedArticleId": "computer",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

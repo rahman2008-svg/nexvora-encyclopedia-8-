@@ -1,0 +1,66 @@
+name: NexVora Content Validation & Manifest Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'content/**'
+      - 'scripts/**'
+      - 'assets/**'
+      - '.github/workflows/content_pipeline.yml'
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - 'content/**'
+      - 'scripts/**'
+      - 'assets/**'
+      - '.github/workflows/content_pipeline.yml'
+  workflow_dispatch:
+
+jobs:
+  validate-and-publish-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Validate Markdown Content & Generate SQLite Database
+        run: |
+          python3 scripts/validate_content.py
+          python3 scripts/generate_encyclopedia_db.py
+
+      - name: Verify SQLite Integrity, FTS Coverage & Content Packs
+        run: |
+          python3 -c "
+          import sqlite3
+          import json
+          from pathlib import Path
+
+          db_path = 'app/src/main/assets/encyclopedia.db'
+          assert Path(db_path).exists(), 'Database file missing'
+          conn = sqlite3.connect(db_path)
+          c = conn.cursor()
+          c.execute('PRAGMA integrity_check')
+          res = c.fetchone()
+          assert res[0] == 'ok', f'Integrity check failed: {res}'
+          c.execute('SELECT COUNT(*) FROM articles')
+          art_count = c.fetchone()[0]
+          c.execute('SELECT COUNT(*) FROM articles_fts')
+          fts_count = c.fetchone()[0]
+          assert art_count > 0, 'No articles found in DB'
+          assert art_count == fts_count, f'FTS count ({fts_count}) does not match articles count ({art_count})'
+          conn.close()
+
+          manifest_path = 'app/src/main/assets/content-manifest.json'
+          assert Path(manifest_path).exists(), 'Manifest file missing'
+          with open(manifest_path, 'r', encoding='utf-8') as f:
+              m = json.load(f)
+          assert 'articles' in m, 'Invalid manifest structure'
+          print(f'Content pipeline verification passed: {art_count} articles indexed, {fts_count} FTS entries verified.')
+          "
+

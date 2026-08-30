@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Encyclopedia",
+  "description": "Bengali-first offline encyclopedia with dynamic markdown content pipeline, Room database, bilingual reading mode, and full-text search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

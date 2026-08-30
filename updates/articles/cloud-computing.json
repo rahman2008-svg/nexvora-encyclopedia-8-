@@ -1,0 +1,104 @@
+{
+  "id": "cloud-computing",
+  "title": "ক্লাউড কম্পিউটিং ও ডেটা সেন্টার",
+  "slug": "ক্লাউড-কম্পিউটিং-ও-ডেটা-সেন্টার",
+  "summary": "ক্লাউড কম্পিউটিং হলো ইন্টারনেটের মাধ্যমে চাহিদা অনুযায়ী কম্পিউটিং সেবা (সার্ভার, স্টোরেজ, ডাটাবেজ, নেটওয়ার্কিং ও সফটওয়্যার) প্রদানের এক আধুনিক মডেল, যা নিজস্ব হার্ডওয়্যার কেনার খরচ ও রক্ষণাবেক্ষণের ঝামেলা দূর করে।",
+  "content": "# ক্লাউড কম্পিউটিং ও ডেটা সেন্টার\n\n## সংক্ষিপ্ত পরিচিতি\nক্লাউড কম্পিউটিং হলো ইন্টারনেটের মাধ্যমে চাহিদা অনুযায়ী কম্পিউটিং সেবা (সার্ভার, স্টোরেজ, ডাটাবেজ, নেটওয়ার্কিং ও সফটওয়্যার) প্রদানের এক আধুনিক মডেল, যা নিজস্ব হার্ডওয়্যার কেনার খরচ ও রক্ষণাবেক্ষণের ঝামেলা দূর করে।\n\n## সূচিপত্র\n1. ক্লাউড মডেলসমূহ (IaaS, PaaS, SaaS)\n2. ক্লাউড ডিপ্লয়মেন্ট: পাবলিক, প্রাইভেট ও হাইব্রিড\n3. বিশ্বব্যাপী ডেটা সেন্টারের স্থাপত্য\n4. সুবিধা ও স্কেলেবিলিটি\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র\n\n## ক্লাউড সেবা মডেলসমূহ\n- **IaaS (Infrastructure as a Service):** ভার্চুয়াল মেশিন ও স্টোরেজ সরবরাহ (যেমন AWS EC2, Google Compute Engine)।\n- **PaaS (Platform as a Service):** অ্যাপ্লিকেশন তৈরি ও পরিচালনার প্ল্যাটফর্ম।\n- **SaaS (Software as a Service):** সরাসরি ব্যবহারের জন্য প্রস্তুত সফটওয়্যার (যেমন Google Docs, Gmail)।\n\n## সুবিধা ও স্কেলেবিলিটি\nব্যবসা প্রতিষ্ঠানগুলো তাদের ট্রাফিক বৃদ্ধির সাথে সাথে কোনো নতুন সার্ভার না কিনেই চোখের পলকে সিস্টেমের ধারণক্ষমতা বাড়াতে পারে (Elasticity)।\n\n## সম্পর্কিত বিষয়\n- [কম্পিউটার](article:computer)\n- [ইন্টারনেট ও কম্পিউটার নেটওয়ার্ক](article:internet-and-networking)\n- [সাইবার নিরাপত্তা ও ক্রিপ্টোগ্রাফি](article:cyber-security)\n\n## উপসংহার\nক্লাউড অবকাঠামো আধুনিক কৃত্রিম বুদ্ধিমত্তা, বিগ ডেটা এবং বৈশ্বিক ডিজিটাল অ্যাপ্লিকেশনের মেরুদণ্ড।\n\n## তথ্যসূত্র\n1. Thomas Erl, Cloud Computing: Concepts, Technology & Architecture\n2. NIST Cloud Computing Standards",
+  "categoryId": "technology-computers",
+  "createdAt": 1788093813601,
+  "updatedAt": 1788093813601,
+  "contentHash": "2e90a8ce34d1a7c919fb72c1754a8d6752e185586e4194a20ede1ee5c82951f1",
+  "sha256": "df00e291fd8390030796534127424c10ae10600636c9867eb1d1b4e37d738872",
+  "category": {
+    "id": "technology-computers",
+    "name": "Computers",
+    "parentId": "technology",
+    "path": "Technology → Computers",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "cloud-computing_sec_1",
+      "articleId": "cloud-computing",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "ক্লাউড কম্পিউটিং হলো ইন্টারনেটের মাধ্যমে চাহিদা অনুযায়ী কম্পিউটিং সেবা (সার্ভার, স্টোরেজ, ডাটাবেজ, নেটওয়ার্কিং ও সফটওয়্যার) প্রদানের এক আধুনিক মডেল, যা নিজস্ব হার্ডওয়্যার কেনার খরচ ও রক্ষণাবেক্ষণের ঝামেলা দূর করে।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_2",
+      "articleId": "cloud-computing",
+      "title": "সূচিপত্র",
+      "content": "1. ক্লাউড মডেলসমূহ (IaaS, PaaS, SaaS)\n2. ক্লাউড ডিপ্লয়মেন্ট: পাবলিক, প্রাইভেট ও হাইব্রিড\n3. বিশ্বব্যাপী ডেটা সেন্টারের স্থাপত্য\n4. সুবিধা ও স্কেলেবিলিটি\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_3",
+      "articleId": "cloud-computing",
+      "title": "ক্লাউড সেবা মডেলসমূহ",
+      "content": "- **IaaS (Infrastructure as a Service):** ভার্চুয়াল মেশিন ও স্টোরেজ সরবরাহ (যেমন AWS EC2, Google Compute Engine)।\n- **PaaS (Platform as a Service):** অ্যাপ্লিকেশন তৈরি ও পরিচালনার প্ল্যাটফর্ম।\n- **SaaS (Software as a Service):** সরাসরি ব্যবহারের জন্য প্রস্তুত সফটওয়্যার (যেমন Google Docs, Gmail)।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_4",
+      "articleId": "cloud-computing",
+      "title": "সুবিধা ও স্কেলেবিলিটি",
+      "content": "ব্যবসা প্রতিষ্ঠানগুলো তাদের ট্রাফিক বৃদ্ধির সাথে সাথে কোনো নতুন সার্ভার না কিনেই চোখের পলকে সিস্টেমের ধারণক্ষমতা বাড়াতে পারে (Elasticity)।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_5",
+      "articleId": "cloud-computing",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [কম্পিউটার](article:computer)\n- [ইন্টারনেট ও কম্পিউটার নেটওয়ার্ক](article:internet-and-networking)\n- [সাইবার নিরাপত্তা ও ক্রিপ্টোগ্রাফি](article:cyber-security)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_6",
+      "articleId": "cloud-computing",
+      "title": "উপসংহার",
+      "content": "ক্লাউড অবকাঠামো আধুনিক কৃত্রিম বুদ্ধিমত্তা, বিগ ডেটা এবং বৈশ্বিক ডিজিটাল অ্যাপ্লিকেশনের মেরুদণ্ড।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "cloud-computing_sec_7",
+      "articleId": "cloud-computing",
+      "title": "তথ্যসূত্র",
+      "content": "1. Thomas Erl, Cloud Computing: Concepts, Technology & Architecture\n2. NIST Cloud Computing Standards",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "প্রযুক্তি",
+    "ক্লাউড",
+    "কম্পিউটার",
+    "ইন্টারনেট"
+  ],
+  "relations": [
+    {
+      "id": "cloud-computing_computer",
+      "articleId": "cloud-computing",
+      "relatedArticleId": "computer",
+      "relationType": "see_also"
+    },
+    {
+      "id": "cloud-computing_internet-and-networking",
+      "articleId": "cloud-computing",
+      "relatedArticleId": "internet-and-networking",
+      "relationType": "see_also"
+    },
+    {
+      "id": "cloud-computing_cyber-security",
+      "articleId": "cloud-computing",
+      "relatedArticleId": "cyber-security",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

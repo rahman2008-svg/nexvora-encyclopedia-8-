@@ -1,0 +1,104 @@
+{
+  "id": "bay-of-bengal",
+  "title": "বঙ্গোপসাগর",
+  "slug": "বঙ্গোপসাগর",
+  "summary": "বঙ্গোপসাগর হলো ভারত মহাসাগরের উত্তর অংশে অবস্থিত বিশ্বের বৃহত্তম উপসাগর। বাংলাদেশ, ভারত, মিয়ানমার, শ্রীলঙ্কা ও ইন্দোনেশিয়া এই সাগরের তীরবর্তী দেশ।",
+  "content": "# বঙ্গোপসাগর\n\n## সংক্ষিপ্ত পরিচিতি\nবঙ্গোপসাগর হলো ভারত মহাসাগরের উত্তর অংশে অবস্থিত বিশ্বের বৃহত্তম উপসাগর। বাংলাদেশ, ভারত, মিয়ানমার, শ্রীলঙ্কা ও ইন্দোনেশিয়া এই সাগরের তীরবর্তী দেশ।\n\n## সূচিপত্র\n1. ভৌগোলিক অবস্থান ও আয়তন\n2. নদ-নদীর মোহনা ও বদ্বীপ\n3. সমুদ্রসম্পদ ও ব্লু ইকোনমি\n4. জলবায়ু ও মৌসুমি বায়ু\n5. উপসংহার\n6. তথ্যসূত্র\n\n## ভৌগোলিক অবস্থান ও আয়তন\nবঙ্গোপসাগরের আয়তন প্রায় ২১ লক্ষ ৭২ হাজার বর্গকিলোমিটার। এর গড় গভীরতা প্রায় ২,৬০০ মিটার এবং সর্বোচ্চ গভীরতা ৪,৬৯৪ মিটার।\n\n## সমুদ্রসম্পদ ও ব্লু ইকোনমি\nবঙ্গোপসাগর বিপুল পরিমাণ মৎস্যসম্পদ, খনিজ তেল ও প্রাকৃতিক গ্যাসের আধার। বাংলাদেশের জন্য 'ব্লু ইকোনমি' বা সমুদ্রভিত্তিক অর্থনীতির বিকাশে বঙ্গোপসাগর অসীম সম্ভাবনাময়।\n\n## সম্পর্কিত বিষয়\n- [পদ্মা নদী](article:padma-river)\n- [কর্ণফুলী নদী](article:karnafuli-river)\n- [ইলিশ মাছ](article:hilsa-fish)\n\n## উপসংহার\nবাণিজ্যিক জাহাজ চলাচল, আন্তর্জাতিক যোগাযোগ এবং প্রকৃতির ভারসাম্য রক্ষায় বঙ্গোপসাগর দক্ষিণ এশিয়ার মূল চালিকাশক্তি।\n\n## তথ্যসূত্র\n1. বাংলাদেশ নৌবাহিনী হাইড্রোগ্রাফিক বিভাগ\n2. জাতিসংঘের সমুদ্র আইন বিষয়ক কনভেনশন (UNCLOS)",
+  "categoryId": "geography-rivers-and-oceans",
+  "createdAt": 1788093813625,
+  "updatedAt": 1788093813625,
+  "contentHash": "47618832c46a5d7e2e117458387c13cda70ab2dba146e46db8ffc80d47a063d6",
+  "sha256": "afaacc12450059bef50fa2d69f0aa6344783bd44aa571c9e75b7f762129ca57f",
+  "category": {
+    "id": "geography-rivers-and-oceans",
+    "name": "Rivers and Oceans",
+    "parentId": "geography",
+    "path": "Geography → Rivers-and-Oceans",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "bay-of-bengal_sec_1",
+      "articleId": "bay-of-bengal",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "বঙ্গোপসাগর হলো ভারত মহাসাগরের উত্তর অংশে অবস্থিত বিশ্বের বৃহত্তম উপসাগর। বাংলাদেশ, ভারত, মিয়ানমার, শ্রীলঙ্কা ও ইন্দোনেশিয়া এই সাগরের তীরবর্তী দেশ।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_2",
+      "articleId": "bay-of-bengal",
+      "title": "সূচিপত্র",
+      "content": "1. ভৌগোলিক অবস্থান ও আয়তন\n2. নদ-নদীর মোহনা ও বদ্বীপ\n3. সমুদ্রসম্পদ ও ব্লু ইকোনমি\n4. জলবায়ু ও মৌসুমি বায়ু\n5. উপসংহার\n6. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_3",
+      "articleId": "bay-of-bengal",
+      "title": "ভৌগোলিক অবস্থান ও আয়তন",
+      "content": "বঙ্গোপসাগরের আয়তন প্রায় ২১ লক্ষ ৭২ হাজার বর্গকিলোমিটার। এর গড় গভীরতা প্রায় ২,৬০০ মিটার এবং সর্বোচ্চ গভীরতা ৪,৬৯৪ মিটার।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_4",
+      "articleId": "bay-of-bengal",
+      "title": "সমুদ্রসম্পদ ও ব্লু ইকোনমি",
+      "content": "বঙ্গোপসাগর বিপুল পরিমাণ মৎস্যসম্পদ, খনিজ তেল ও প্রাকৃতিক গ্যাসের আধার। বাংলাদেশের জন্য 'ব্লু ইকোনমি' বা সমুদ্রভিত্তিক অর্থনীতির বিকাশে বঙ্গোপসাগর অসীম সম্ভাবনাময়।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_5",
+      "articleId": "bay-of-bengal",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [পদ্মা নদী](article:padma-river)\n- [কর্ণফুলী নদী](article:karnafuli-river)\n- [ইলিশ মাছ](article:hilsa-fish)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_6",
+      "articleId": "bay-of-bengal",
+      "title": "উপসংহার",
+      "content": "বাণিজ্যিক জাহাজ চলাচল, আন্তর্জাতিক যোগাযোগ এবং প্রকৃতির ভারসাম্য রক্ষায় বঙ্গোপসাগর দক্ষিণ এশিয়ার মূল চালিকাশক্তি।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "bay-of-bengal_sec_7",
+      "articleId": "bay-of-bengal",
+      "title": "তথ্যসূত্র",
+      "content": "1. বাংলাদেশ নৌবাহিনী হাইড্রোগ্রাফিক বিভাগ\n2. জাতিসংঘের সমুদ্র আইন বিষয়ক কনভেনশন (UNCLOS)",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "ভূগোল",
+    "সমুদ্র",
+    "বঙ্গোপসাগর",
+    "বাংলাদেশ"
+  ],
+  "relations": [
+    {
+      "id": "bay-of-bengal_padma-river",
+      "articleId": "bay-of-bengal",
+      "relatedArticleId": "padma-river",
+      "relationType": "see_also"
+    },
+    {
+      "id": "bay-of-bengal_karnafuli-river",
+      "articleId": "bay-of-bengal",
+      "relatedArticleId": "karnafuli-river",
+      "relationType": "see_also"
+    },
+    {
+      "id": "bay-of-bengal_hilsa-fish",
+      "articleId": "bay-of-bengal",
+      "relatedArticleId": "hilsa-fish",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

@@ -1,0 +1,98 @@
+{
+  "id": "nikola-tesla",
+  "title": "নিকোলা টেসলা ও পরিবর্তী বিদ্যুৎ",
+  "slug": "নিকোলা-টেসলা-ও-পরিবর্তী-বিদ্যুৎ",
+  "summary": "নিকোলা টেসলা (১৮৫৬-১৯৪৩) ছিলেন সার্বিয়ান-আমেরিকান যুগান্তকারী আবিষ্কারক, তড়িৎ প্রকৌশলী ও ভবিষ্যতদ্রষ্টা। আধুনিক অল্টারনেটিং কারেন্ট (AC) বিদ্যুৎ ব্যবস্থা ও তারহীন প্রযুক্তির স্বপ্নদ্রষ্টা হিসেবে তিনি অমর।",
+  "content": "# নিকোলা টেসলা ও পরিবর্তী বিদ্যুৎ\n\n## সংক্ষিপ্ত পরিচিতি\nনিকোলা টেসলা (১৮৫৬-১৯৪৩) ছিলেন সার্বিয়ান-আমেরিকান যুগান্তকারী আবিষ্কারক, তড়িৎ প্রকৌশলী ও ভবিষ্যতদ্রষ্টা। আধুনিক অল্টারনেটিং কারেন্ট (AC) বিদ্যুৎ ব্যবস্থা ও তারহীন প্রযুক্তির স্বপ্নদ্রষ্টা হিসেবে তিনি অমর।\n\n## সূচিপত্র\n1. প্রারম্ভিক জীবন ও এডিসনের সাথে প্রতিযোগিতা\n2. পরিবর্তী বিদ্যুৎ (AC) ও ইন্ডাকশন মোটর\n3. টেসলা কয়েল ও বেতার তরঙ্গের গবেষণা\n4. নায়াগ্রা জলবিদ্যুৎ কেন্দ্র ও দূরদৃষ্টি\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র\n\n## পরিবর্তী বিদ্যুৎ ও এসি বিপ্লব\nথমাস এডিসন যেখানে সরাসরি বিদ্যুৎ (DC) ব্যবহারের পক্ষে ছিলেন, টেসলা প্রমাণ করেন যে বহু দূরবর্তী অঞ্চলে বিদ্যুৎ প্রেরণের জন্য পরিবর্তী বিদ্যুৎ (AC) বহুগুণ সাশ্রয়ী ও কার্যকর। জর্জ ওয়েস্টিংহাউসের সাথে মিলে তিনি এসি ব্যবস্থার আন্তর্জাতিক মান প্রতিষ্ঠা করেন।\n\n## আবিষ্কার ও পেটেন্ট\nটেসলা ইন্ডাকশন মোটর, টেসলা কয়েল, রেডিও যোগাযোগের প্রাথমিক রূপ এবং রিমোট কন্ট্রোল নৌকার উদ্ভাবক ছিলেন।\n\n## সম্পর্কিত বিষয়\n- [তড়িৎচুম্বকত্ব](article:electromagnetism)\n- [শক্তি ও এর রূপান্তর](article:energy)\n\n## উপসংহার\nনিকোলা টেসলার অসাধারণ আবিষ্কারসমূহ বিশ্বজুড়ে আজকের সার্বজনীন বিদ্যুৎ গ্রিডের মেরুদণ্ড গঠন করেছে।\n\n## তথ্যসূত্র\n1. W. Bernard Carlson, Tesla: Inventor of the Electrical Age\n2. Nikola Tesla, My Inventions: The Autobiography of Nikola Tesla",
+  "categoryId": "biography-scientists",
+  "createdAt": 1788093813631,
+  "updatedAt": 1788093813631,
+  "contentHash": "aeadb670a655d2a3984c6a260c7903669bb2d1472e200ba39dc4f6b0aaad779f",
+  "sha256": "649a94d5e7f73f40c0b422e53c6f3d86d8ccf925a805a1f0fb9b7f8f3d086f92",
+  "category": {
+    "id": "biography-scientists",
+    "name": "Scientists",
+    "parentId": "biography",
+    "path": "Biography → Scientists",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "nikola-tesla_sec_1",
+      "articleId": "nikola-tesla",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "নিকোলা টেসলা (১৮৫৬-১৯৪৩) ছিলেন সার্বিয়ান-আমেরিকান যুগান্তকারী আবিষ্কারক, তড়িৎ প্রকৌশলী ও ভবিষ্যতদ্রষ্টা। আধুনিক অল্টারনেটিং কারেন্ট (AC) বিদ্যুৎ ব্যবস্থা ও তারহীন প্রযুক্তির স্বপ্নদ্রষ্টা হিসেবে তিনি অমর।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_2",
+      "articleId": "nikola-tesla",
+      "title": "সূচিপত্র",
+      "content": "1. প্রারম্ভিক জীবন ও এডিসনের সাথে প্রতিযোগিতা\n2. পরিবর্তী বিদ্যুৎ (AC) ও ইন্ডাকশন মোটর\n3. টেসলা কয়েল ও বেতার তরঙ্গের গবেষণা\n4. নায়াগ্রা জলবিদ্যুৎ কেন্দ্র ও দূরদৃষ্টি\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_3",
+      "articleId": "nikola-tesla",
+      "title": "পরিবর্তী বিদ্যুৎ ও এসি বিপ্লব",
+      "content": "থমাস এডিসন যেখানে সরাসরি বিদ্যুৎ (DC) ব্যবহারের পক্ষে ছিলেন, টেসলা প্রমাণ করেন যে বহু দূরবর্তী অঞ্চলে বিদ্যুৎ প্রেরণের জন্য পরিবর্তী বিদ্যুৎ (AC) বহুগুণ সাশ্রয়ী ও কার্যকর। জর্জ ওয়েস্টিংহাউসের সাথে মিলে তিনি এসি ব্যবস্থার আন্তর্জাতিক মান প্রতিষ্ঠা করেন।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_4",
+      "articleId": "nikola-tesla",
+      "title": "আবিষ্কার ও পেটেন্ট",
+      "content": "টেসলা ইন্ডাকশন মোটর, টেসলা কয়েল, রেডিও যোগাযোগের প্রাথমিক রূপ এবং রিমোট কন্ট্রোল নৌকার উদ্ভাবক ছিলেন।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_5",
+      "articleId": "nikola-tesla",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [তড়িৎচুম্বকত্ব](article:electromagnetism)\n- [শক্তি ও এর রূপান্তর](article:energy)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_6",
+      "articleId": "nikola-tesla",
+      "title": "উপসংহার",
+      "content": "নিকোলা টেসলার অসাধারণ আবিষ্কারসমূহ বিশ্বজুড়ে আজকের সার্বজনীন বিদ্যুৎ গ্রিডের মেরুদণ্ড গঠন করেছে।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "nikola-tesla_sec_7",
+      "articleId": "nikola-tesla",
+      "title": "তথ্যসূত্র",
+      "content": "1. W. Bernard Carlson, Tesla: Inventor of the Electrical Age\n2. Nikola Tesla, My Inventions: The Autobiography of Nikola Tesla",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "জীবনী",
+    "বিজ্ঞানী",
+    "প্রযুক্তি",
+    "বিদ্যুৎ"
+  ],
+  "relations": [
+    {
+      "id": "nikola-tesla_electromagnetism",
+      "articleId": "nikola-tesla",
+      "relatedArticleId": "electromagnetism",
+      "relationType": "see_also"
+    },
+    {
+      "id": "nikola-tesla_energy",
+      "articleId": "nikola-tesla",
+      "relatedArticleId": "energy",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}

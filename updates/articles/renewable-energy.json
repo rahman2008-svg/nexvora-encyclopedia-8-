@@ -1,0 +1,104 @@
+{
+  "id": "renewable-energy",
+  "title": "নবায়নযোগ্য শক্তি ও পরিবেশবান্ধব বিদ্যুৎ",
+  "slug": "নবায়নযোগ্য-শক্তি-ও-পরিবেশবান্ধব-বিদ্যুৎ",
+  "summary": "নবায়নযোগ্য শক্তি (Renewable Energy) হলো এমন শক্তির উৎস যা প্রাকৃতিকভাবে নিরন্তর পুনর্নবীকরণযোগ্য এবং ব্যবহারের ফলে কখনো নিঃশেষ হয় না, যেমন সৌরশক্তি, বায়ুশক্তি, জলবিদ্যুৎ ও বায়োমাস।",
+  "content": "# নবায়নযোগ্য শক্তি ও পরিবেশবান্ধব বিদ্যুৎ\n\n## সংক্ষিপ্ত পরিচিতি\nনবায়নযোগ্য শক্তি (Renewable Energy) হলো এমন শক্তির উৎস যা প্রাকৃতিকভাবে নিরন্তর পুনর্নবীকরণযোগ্য এবং ব্যবহারের ফলে কখনো নিঃশেষ হয় না, যেমন সৌরশক্তি, বায়ুশক্তি, জলবিদ্যুৎ ও বায়োমাস।\n\n## সূচিপত্র\n1. প্রকারভেদ ও কার্যপদ্ধতি\n2. সৌরশক্তি ও ফটোভোলটাইক প্যানেল\n3. বায়ু টারবাইন ও জলবিদ্যুৎ\n4. জীবাশ্ম জ্বালানির বিকল্প ও কার্বন হ্রাস\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র\n\n## সৌরশক্তি ও ফটোভোলটাইক প্যানেল\nসৌর প্যানেলে সিলিকন সেমিকন্ডাক্টরের মাধ্যমে সূর্যের আলোকে সরাসরি বিদ্যুতে রূপান্তর করা হয়। এটি বিশ্বের সবচেয়ে দ্রুত বর্ধনশীল পরিচ্ছন্ন শক্তির উৎস।\n\n## সুবিধা ও পরিবেশগত গুরুত্ব\nনবায়নযোগ্য শক্তি কোনো বায়ুদূষণকারী কার্বন গ্যাস বা বিষাক্ত বর্জ্য তৈরি করে না, ফলে এটি গ্লোবাল ওয়ার্মিং রোধে সবচেয়ে কার্যকর হাতিয়ার।\n\n## সম্পর্কিত বিষয়\n- [শক্তি ও এর রূপান্তর](article:energy)\n- [সূর্য ও সৌরশক্তি](article:sun)\n- [জলবায়ু পরিবর্তন ও বৈশ্বিক উষ্ণায়ন](article:climate-change)\n\n## উপসংহার\nপরিচ্ছন্ন নবায়নযোগ্য শক্তিতে রূপান্তর টেকসই অর্থনীতি ও বাসযোগ্য পৃথিবীর নিশ্চয়তা।\n\n## তথ্যসূত্র\n1. International Renewable Energy Agency (IRENA) Global Outlook\n2. World Energy Council Reports",
+  "categoryId": "environment-energy",
+  "createdAt": 1788093813637,
+  "updatedAt": 1788093813637,
+  "contentHash": "300e7b557051e523eff764ad44eb4c210b07cae5eb2094cc5ab8e042c33f83a5",
+  "sha256": "41413ba8927cedfeaef4405ab2acee627dd24750118a0d2a465ebea2f1812e72",
+  "category": {
+    "id": "environment-energy",
+    "name": "Energy",
+    "parentId": "environment",
+    "path": "Environment → Energy",
+    "depth": 2
+  },
+  "sections": [
+    {
+      "id": "renewable-energy_sec_1",
+      "articleId": "renewable-energy",
+      "title": "সংক্ষিপ্ত পরিচিতি",
+      "content": "নবায়নযোগ্য শক্তি (Renewable Energy) হলো এমন শক্তির উৎস যা প্রাকৃতিকভাবে নিরন্তর পুনর্নবীকরণযোগ্য এবং ব্যবহারের ফলে কখনো নিঃশেষ হয় না, যেমন সৌরশক্তি, বায়ুশক্তি, জলবিদ্যুৎ ও বায়োমাস।",
+      "position": 1,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_2",
+      "articleId": "renewable-energy",
+      "title": "সূচিপত্র",
+      "content": "1. প্রকারভেদ ও কার্যপদ্ধতি\n2. সৌরশক্তি ও ফটোভোলটাইক প্যানেল\n3. বায়ু টারবাইন ও জলবিদ্যুৎ\n4. জীবাশ্ম জ্বালানির বিকল্প ও কার্বন হ্রাস\n5. সম্পর্কিত বিষয়\n6. উপসংহার\n7. তথ্যসূত্র",
+      "position": 2,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_3",
+      "articleId": "renewable-energy",
+      "title": "সৌরশক্তি ও ফটোভোলটাইক প্যানেল",
+      "content": "সৌর প্যানেলে সিলিকন সেমিকন্ডাক্টরের মাধ্যমে সূর্যের আলোকে সরাসরি বিদ্যুতে রূপান্তর করা হয়। এটি বিশ্বের সবচেয়ে দ্রুত বর্ধনশীল পরিচ্ছন্ন শক্তির উৎস।",
+      "position": 3,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_4",
+      "articleId": "renewable-energy",
+      "title": "সুবিধা ও পরিবেশগত গুরুত্ব",
+      "content": "নবায়নযোগ্য শক্তি কোনো বায়ুদূষণকারী কার্বন গ্যাস বা বিষাক্ত বর্জ্য তৈরি করে না, ফলে এটি গ্লোবাল ওয়ার্মিং রোধে সবচেয়ে কার্যকর হাতিয়ার।",
+      "position": 4,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_5",
+      "articleId": "renewable-energy",
+      "title": "সম্পর্কিত বিষয়",
+      "content": "- [শক্তি ও এর রূপান্তর](article:energy)\n- [সূর্য ও সৌরশক্তি](article:sun)\n- [জলবায়ু পরিবর্তন ও বৈশ্বিক উষ্ণায়ন](article:climate-change)",
+      "position": 5,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_6",
+      "articleId": "renewable-energy",
+      "title": "উপসংহার",
+      "content": "পরিচ্ছন্ন নবায়নযোগ্য শক্তিতে রূপান্তর টেকসই অর্থনীতি ও বাসযোগ্য পৃথিবীর নিশ্চয়তা।",
+      "position": 6,
+      "level": 2
+    },
+    {
+      "id": "renewable-energy_sec_7",
+      "articleId": "renewable-energy",
+      "title": "তথ্যসূত্র",
+      "content": "1. International Renewable Energy Agency (IRENA) Global Outlook\n2. World Energy Council Reports",
+      "position": 7,
+      "level": 2
+    }
+  ],
+  "tags": [
+    "পরিবেশ",
+    "শক্তি",
+    "বিজ্ঞান",
+    "প্রযুক্তি"
+  ],
+  "relations": [
+    {
+      "id": "renewable-energy_energy",
+      "articleId": "renewable-energy",
+      "relatedArticleId": "energy",
+      "relationType": "see_also"
+    },
+    {
+      "id": "renewable-energy_sun",
+      "articleId": "renewable-energy",
+      "relatedArticleId": "sun",
+      "relationType": "see_also"
+    },
+    {
+      "id": "renewable-energy_climate-change",
+      "articleId": "renewable-energy",
+      "relatedArticleId": "climate-change",
+      "relationType": "see_also"
+    }
+  ],
+  "englishTranslation": null
+}
