@@ -1,44 +1,45 @@
 ---
-
 id: alexander-pushkin
-title: আলেকজান্ডার পুশকিন
-title_en: Alexander Pushkin
-category: Biography
-subcategory: Writers
-country: Russia
-birth_date: 1799-06-06
-death_date: 1837-02-10
-birth_place: Moscow, Russian Empire
-death_place: Saint Petersburg, Russian Empire
-nationality: Russian
+title: "আলেকজান্ডার পুশকিন"
+title_en: "Alexander Pushkin"
+category: "Biography"
+subcategory: "Writers"
+country: "Russia"
+birth_date: "1799-06-06"
+death_date: "1837-02-10"
+birth_place: "Moscow, Russian Empire"
+death_place: "Saint Petersburg, Russian Empire"
+nationality: "Russian"
+
 occupation:
+  - "Poet"
+  - "Writer"
+  - "Novelist"
+  - "Dramatist"
+  - "Translator"
 
-- Poet
-- Writer
-- Novelist
-- Dramatist
-- Translator
-  languages:
-- Russian
-- French
-  known_for:
-- Eugene Onegin
-- The Captain's Daughter
-- Boris Godunov
-- The Bronze Horseman
-- Ruslan and Ludmila
-  tags:
-- Alexander Pushkin
-- আলেকজান্ডার পুশকিন
-- Russian literature
-- Russian poetry
-- Russian writers
-- Romanticism
-- Literature
-  summary: আলেকজান্ডার পুশকিন ছিলেন রুশ সাম্রাজ্যের অন্যতম শ্রেষ্ঠ কবি, লেখক ও নাট্যকার এবং আধুনিক রুশ সাহিত্যের অন্যতম প্রধান প্রতিষ্ঠাতা। তাঁর রচনা রুশ ভাষার সাহিত্যিক বিকাশে গভীর প্রভাব ফেলেছে। কবিতা, উপন্যাস, নাটক, ছোটগল্প ও গদ্য সাহিত্যে তাঁর বহুমুখী অবদান তাঁকে রাশিয়ার জাতীয় কবি হিসেবে প্রতিষ্ঠিত করেছে।
+languages:
+  - "Russian"
+  - "French"
 
+known_for:
+  - "Eugene Onegin"
+  - "The Captain's Daughter"
+  - "Boris Godunov"
+  - "The Bronze Horseman"
+  - "Ruslan and Ludmila"
+
+tags:
+  - "Alexander Pushkin"
+  - "আলেকজান্ডার পুশকিন"
+  - "Russian literature"
+  - "Russian poetry"
+  - "Russian writers"
+  - "Romanticism"
+  - "Literature"
+
+summary: "আলেকজান্ডার পুশকিন ছিলেন রুশ সাম্রাজ্যের অন্যতম শ্রেষ্ঠ কবি, লেখক ও নাট্যকার এবং আধুনিক রুশ সাহিত্যের অন্যতম প্রধান প্রতিষ্ঠাতা। তাঁর রচনা রুশ ভাষার সাহিত্যিক বিকাশে গভীর প্রভাব ফেলেছে। কবিতা, উপন্যাস, নাটক, ছোটগল্প ও গদ্য সাহিত্যে তাঁর বহুমুখী অবদান তাঁকে রাশিয়ার জাতীয় কবি হিসেবে প্রতিষ্ঠিত করেছে।"
 ---
-
 আলেকজান্ডার পুশকিন
 
 পরিচিতি
