@@ -9,15 +9,25 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: nexvora-encyclopedia-build
+  cancel-in-progress: true
+
 jobs:
   build:
     name: Android Debug APK
     runs-on: ubuntu-latest
 
     steps:
+      # ---------------------------------------------------------
+      # 1. Checkout
+      # ---------------------------------------------------------
       - name: Checkout source
         uses: actions/checkout@v4
 
+      # ---------------------------------------------------------
+      # 2. Java 17
+      # ---------------------------------------------------------
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
@@ -25,81 +35,223 @@ jobs:
           java-version: '17'
           cache: gradle
 
+      # ---------------------------------------------------------
+      # 3. Python
+      # ---------------------------------------------------------
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          cache: pip
 
-      - name: Verify Python
+      # ---------------------------------------------------------
+      # 4. Verify environment
+      # ---------------------------------------------------------
+      - name: Verify build environment
         run: |
+          echo "=== Java ==="
+          java -version
+
+          echo ""
+          echo "=== Python ==="
           python3 --version
           which python3
-          python3 -c "import sys; print(sys.executable)"
 
+          echo ""
+          echo "=== Gradle ==="
+          chmod +x ./gradlew
+          ./gradlew --version
+
+          echo ""
+          echo "=== Git ==="
+          git --version
+
+      # ---------------------------------------------------------
+      # 5. Install Python dependencies
+      # ---------------------------------------------------------
       - name: Install Python dependencies
+        shell: bash
         run: |
+          set -e
+
           if [ -f requirements.txt ]; then
+            echo "Installing root requirements.txt"
             python3 -m pip install -r requirements.txt
+          else
+            echo "No root requirements.txt found"
           fi
 
           if [ -f scripts/requirements.txt ]; then
+            echo "Installing scripts/requirements.txt"
             python3 -m pip install -r scripts/requirements.txt
+          else
+            echo "No scripts/requirements.txt found"
           fi
 
-      - name: Verify Gradle
-        run: ./gradlew --version
-
-      - name: Make Gradle executable
-        run: chmod +x ./gradlew
-
-      - name: Generate debug keystore
+      # ---------------------------------------------------------
+      # 6. Show encyclopedia structure
+      # ---------------------------------------------------------
+      - name: Inspect encyclopedia content
         run: |
-          keytool -genkeypair \
-            -v \
-            -keystore debug.keystore \
-            -storepass android \
-            -alias androiddebugkey \
-            -keypass android \
-            -keyalg RSA \
-            -keysize 2048 \
-            -validity 10000 \
-            -dname "CN=Android Debug,O=Android,C=US"
-
-      - name: Validate encyclopedia generator
-        run: |
-          echo "Python files:"
-          find . -type f -name "*.py" -print
+          echo "=== Content directories ==="
+          find content -maxdepth 3 -type d | sort || true
 
           echo ""
-          echo "Generator references:"
-          grep -Rni \
-            --exclude-dir=.git \
-            --exclude-dir=.gradle \
-            "generate_encyclopedia_db" \
-            . || true
+          echo "=== Markdown article count ==="
+          find content -type f -name "*.md" | wc -l
 
+          echo ""
+          echo "=== Python generator files ==="
+          find . -type f -name "*.py" \
+            -not -path "./.git/*" \
+            -not -path "./.gradle/*" \
+            | sort
+
+      # ---------------------------------------------------------
+      # 7. Detect duplicate article IDs before Gradle
+      # ---------------------------------------------------------
+      - name: Check duplicate article IDs
+        shell: bash
+        run: |
+          set -e
+
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+          from collections import defaultdict
+
+          root = Path("content")
+          ids = defaultdict(list)
+
+          for path in root.rglob("*.md"):
+              try:
+                  text = path.read_text(encoding="utf-8")
+              except Exception as e:
+                  print(f"WARNING: Could not read {path}: {e}")
+                  continue
+
+              front_matter = text
+
+              if text.startswith("---"):
+                  parts = text.split("---", 2)
+                  if len(parts) >= 3:
+                      front_matter = parts[1]
+
+              match = re.search(
+                  r"(?m)^id:\s*['\"]?([^'\"\n]+?)['\"]?\s*$",
+                  front_matter
+              )
+
+              if match:
+                  article_id = match.group(1).strip()
+                  ids[article_id].append(str(path))
+
+          duplicates = {
+              article_id: paths
+              for article_id, paths in ids.items()
+              if len(paths) > 1
+          }
+
+          if duplicates:
+              print("CRITICAL: Duplicate article IDs detected:")
+              print()
+
+              for article_id, paths in sorted(duplicates.items()):
+                  print(f"ID: {article_id}")
+                  for path in paths:
+                      print(f"  - {path}")
+                  print()
+
+              raise SystemExit(1)
+
+          print(f"OK: {len(ids)} unique article IDs found.")
+          PY
+
+      # ---------------------------------------------------------
+      # 8. Validate content
+      # ---------------------------------------------------------
+      - name: Validate encyclopedia content
+        run: |
+          ./gradlew :app:validateContent \
+            --no-daemon \
+            --stacktrace \
+            --rerun-tasks
+
+      # ---------------------------------------------------------
+      # 9. Generate Encyclopedia Database
+      # ---------------------------------------------------------
       - name: Generate Encyclopedia Database
         run: |
           ./gradlew :app:generateEncyclopediaDatabase \
             --no-daemon \
-            --rerun-tasks \
-            --stacktrace
+            --stacktrace \
+            --rerun-tasks
 
+      # ---------------------------------------------------------
+      # 10. Build Debug APK
+      # ---------------------------------------------------------
       - name: Build Debug APK
         run: |
           ./gradlew assembleDebug \
             --no-daemon \
-            --stacktrace
+            --stacktrace \
+            --rerun-tasks
 
+      # ---------------------------------------------------------
+      # 11. Find APK
+      # ---------------------------------------------------------
       - name: Find generated APK
+        shell: bash
         run: |
-          echo "Generated APK files:"
-          find app/build/outputs -type f -name "*.apk" -print
+          echo "=== Generated APK files ==="
 
-      - name: Upload APK
+          find app/build/outputs \
+            -type f \
+            -name "*.apk" \
+            -print
+
+      # ---------------------------------------------------------
+      # 12. Verify APK exists
+      # ---------------------------------------------------------
+      - name: Verify APK
+        shell: bash
+        run: |
+          set -e
+
+          APK_COUNT=$(find app/build/outputs \
+            -type f \
+            -name "*.apk" | wc -l)
+
+          echo "APK count: $APK_COUNT"
+
+          if [ "$APK_COUNT" -eq 0 ]; then
+            echo "ERROR: No APK was generated."
+            exit 1
+          fi
+
+          echo "APK successfully generated."
+
+      # ---------------------------------------------------------
+      # 13. Upload APK
+      # ---------------------------------------------------------
+      - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
           name: nexvora-encyclopedia-8-debug-apk
           path: app/build/outputs/**/*.apk
           if-no-files-found: error
           retention-days: 14
+
+      # ---------------------------------------------------------
+      # 14. Upload database artifacts
+      # ---------------------------------------------------------
+      - name: Upload generated database artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: nexvora-encyclopedia-8-database
+          path: |
+            app/build/**/*.db
+            app/build/**/*.json
+            build/**/*.json
+          if-no-files-found: warn
+          retention-days: 7
