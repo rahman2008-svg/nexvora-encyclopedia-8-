@@ -25,6 +25,30 @@ jobs:
           java-version: '17'
           cache: gradle
 
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Verify Python
+        run: |
+          python3 --version
+          which python3
+          python3 -c "import sys; print(sys.executable)"
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            python3 -m pip install -r requirements.txt
+          fi
+
+          if [ -f scripts/requirements.txt ]; then
+            python3 -m pip install -r scripts/requirements.txt
+          fi
+
+      - name: Verify Gradle
+        run: ./gradlew --version
+
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
@@ -41,14 +65,31 @@ jobs:
             -validity 10000 \
             -dname "CN=Android Debug,O=Android,C=US"
 
-      - name: Verify Gradle
-        run: ./gradlew --version
+      - name: Validate encyclopedia generator
+        run: |
+          echo "Python files:"
+          find . -type f -name "*.py" -print
 
-      - name: Clean project
-        run: ./gradlew clean --no-daemon
+          echo ""
+          echo "Generator references:"
+          grep -Rni \
+            --exclude-dir=.git \
+            --exclude-dir=.gradle \
+            "generate_encyclopedia_db" \
+            . || true
+
+      - name: Generate Encyclopedia Database
+        run: |
+          ./gradlew :app:generateEncyclopediaDatabase \
+            --no-daemon \
+            --rerun-tasks \
+            --stacktrace
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug --no-daemon --stacktrace
+        run: |
+          ./gradlew assembleDebug \
+            --no-daemon \
+            --stacktrace
 
       - name: Find generated APK
         run: |
