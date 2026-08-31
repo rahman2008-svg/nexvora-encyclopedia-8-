@@ -1,5 +1,5 @@
 ---
-id: gravity
+id: gravity-physics
 title: মহাকর্ষ
 tags:
   - পদার্থবিজ্ঞান
